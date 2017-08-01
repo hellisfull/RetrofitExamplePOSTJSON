@@ -1,0 +1,87 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+        <!-- Default screen margins, per the Android Design guidelines. -->
+        <dimen name="nav_header_vertical_spacing">10dp</dimen>
+        <dimen name="nav_header_height">160dp</dimen>
+        <dimen name="fab_margin">16dp</dimen>
+
+        <!-- Splash-->
+        <dimen name="splasg_logo_caption_margin">8dp</dimen>
+        <dimen name="splasg_copyright_margin">8dp</dimen>
+        <dimen name="splasg_logo_text_margin">1dp</dimen>
+
+        <!-- Home-->
+        <dimen name="circle_diameter">60dp</dimen>
+        <dimen name="center_space_one">200dp</dimen>
+        <dimen name="center_space_two">150dp</dimen>
+        <dimen name="center_space_three">80dp</dimen>
+        <dimen name="center_space_four">50dp</dimen>
+        <dimen name="center_space_five">20dp</dimen>
+        <dimen name="center_spaces_ix">35dp</dimen>
+        <dimen name="center_spaces_seven">30dp</dimen>
+        <dimen name="center_spaces_eight">60dp</dimen>
+        <dimen name="padingsize">16dp</dimen>
+
+
+        <!-- About Us-->
+        <dimen name="about_card_padding">8dp</dimen>
+        <dimen name="about_card_drawable_padding">8dp</dimen>
+        <dimen name="contact_drawable_padding">12dp</dimen>
+        <dimen name="contact_social_media_padding">12dp</dimen>
+        <dimen name="about_head_text_size">22sp</dimen>
+        <dimen name="contact_detail_text_size">18sp</dimen>
+        <dimen name="contact_detail_text_size_one">16sp</dimen>
+        <dimen name="donate_now_button_text_size">26sp</dimen>
+        <dimen name="donate_now_button_padding">12dp</dimen>
+        <dimen name="about_content_text_size">14sp</dimen>
+        <dimen name="get_involved_head_padding">12dp</dimen>
+        <dimen name="get_image_height">220dp</dimen>
+
+        <dimen name="app_bar_height">180dp</dimen>
+        <dimen name="text_margin">16dp</dimen>
+        <dimen name="spinner_height">42dp</dimen>
+
+        <dimen name="news_head_text_size">18sp</dimen>
+        <dimen name="news_des_text_size">16sp</dimen>
+        <dimen name="news_date_text_size">14sp</dimen>
+        <dimen name="news_row_height">100dp</dimen>
+        <dimen name="news_row_content_padding">8dp</dimen>
+        <dimen name="news_row_head_margin">8dp</dimen>
+        <dimen name="news_row_des_margin">4dp</dimen>
+
+        //gallery
+        <dimen name="gallery_grid_height">160dp</dimen>
+        <dimen name="gallery_grid_strip_height">15dp</dimen>
+        <dimen name="gallery_grid_text">15dp</dimen>
+
+        //Reecyclemargin decration
+        <dimen name="grid_item_padding">4dp</dimen>
+
+
+        //involvded items headerimage
+        <dimen name="involvedheader">180dp</dimen>
+
+
+        <!--End Home-->
+        <!--height text size get involved cardview-->
+        <dimen name="textheight">50dp</dimen>
+        <!--card margine size-->
+        <dimen name="margine">2dp</dimen>
+        <dimen name="mrginbtm">9dp</dimen>
+        <dimen name="maginside">7dp</dimen>
+        <!--about school margine-->
+        <dimen name="abutmargine">15dp</dimen>
+
+        <dimen name="buttonsize">320dp</dimen>
+        <dimen name="datesize">22dp</dimen>
+
+        <dimen name="validatzntextsize">20sp</dimen>
+
+
+        <dimen name="imagesizeheiht">200dp</dimen>
+
+
+</resources>
